@@ -1,0 +1,21 @@
+SourceDir:
+total 28
+drwxrwxr-x 2 mayar mayar 4096 Oct 19 13:43 Folder1
+drwxrwxr-x 2 mayar mayar 4096 Oct 19 13:43 Folder2
+drwxrwxr-x 2 mayar mayar 4096 Oct 19 13:43 Folder3
+drwxrwxr-x 2 mayar mayar 4096 Oct 20 03:48 Folder4
+-rw-rw-r-- 1 mayar mayar   12 Oct 19 13:43 textfile1.txt
+-rw-rw-r-- 1 mayar mayar   12 Oct 20 03:50 textfile2 (Copy).txt
+-rw-rw-r-- 1 mayar mayar   12 Oct 19 13:43 textfile2.txt
+
+SourceDir/Folder1:
+total 0
+
+SourceDir/Folder2:
+total 0
+
+SourceDir/Folder3:
+total 0
+
+SourceDir/Folder4:
+total 0
